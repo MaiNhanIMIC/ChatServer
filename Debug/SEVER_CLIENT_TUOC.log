@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Mai Nhan\source\repos\SEVER_CLIENT_TUOC\SEVER_CLIENT_TUOC\main.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mai Nhan\source\repos\SEVER_CLIENT_TUOC\SEVER_CLIENT_TUOC\Socket.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mai Nhan\source\repos\SEVER_CLIENT_TUOC\SEVER_CLIENT_TUOC\Socket.h(28,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Mai Nhan\source\repos\SEVER_CLIENT_TUOC\SEVER_CLIENT_TUOC\main.cpp(24,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mai Nhan\source\repos\SEVER_CLIENT_TUOC\SEVER_CLIENT_TUOC\main.cpp(111,9): warning C4129: 'w': unrecognized character escape sequence
+C:\Users\Mai Nhan\source\repos\SEVER_CLIENT_TUOC\SEVER_CLIENT_TUOC\main.cpp(175,10): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\Mai Nhan\source\repos\SEVER_CLIENT_TUOC\SEVER_CLIENT_TUOC\main.cpp(36): warning C4172: returning address of local variable or temporary: b
+  SEVER_CLIENT_TUOC.vcxproj -> C:\Users\Mai Nhan\source\repos\SEVER_CLIENT_TUOC\Debug\SEVER_CLIENT_TUOC.exe
